@@ -39,11 +39,11 @@ Automatic flow (Aflow) is a DFT and API database managed by Duke University and 
 
 
 * References:
-[1] Cornell University [Internet]. [cited 2022 Jan 31]. Available from: https://arxiv.org/abs/1802.07977
-[2] C. Oses et al., “AFLOW-CHULL: Cloud-Oriented Platform for Autonomous Phase Stability Analysis,” Journal of Chemical Information and Modeling, vol. 58, no. 12, pp. 2477–2490, Dec. 2018, doi: 10.1021/acs.jcim.8b00393.
-[3] R. Friedrich et al., "Automated coordination corrected enthalpies with AFLOW-CCE," (in eng), 2021, doi: 10.1103/PhysRevMaterials.5.043803.
-[4] D. Hicks et al., “AFLOW-SYM: platform for the complete, automatic and self-consistent symmetry analysis of crystals.,” Acta crystallographica. Section A, Foundations and advances, vol. 74, no. Pt 3, pp. 184–203, May 2018, doi: 10.1107/S2053273318003066.
-[5] S. Curtarolo et al., “AFLOW: An automatic framework for high-throughput materials discovery,” Computational Materials Science, vol. 58, pp. 218–226, 2012, doi: https://doi.org/10.1016/j.commatsci.2012.02.005.
+ * [1] Cornell University [Internet]. [cited 2022 Jan 31]. Available from: https://arxiv.org/abs/1802.07977
+ * [2] C. Oses et al., “AFLOW-CHULL: Cloud-Oriented Platform for Autonomous Phase Stability Analysis,” Journal of Chemical Information and Modeling, vol. 58, no. 12, pp. 2477–2490, Dec. 2018, doi: 10.1021/acs.jcim.8b00393.
+ * [3] R. Friedrich et al., "Automated coordination corrected enthalpies with AFLOW-CCE," (in eng), 2021, doi: 10.1103/PhysRevMaterials.5.043803.
+ * [4] D. Hicks et al., “AFLOW-SYM: platform for the complete, automatic and self-consistent symmetry analysis of crystals.,” Acta crystallographica. Section A, Foundations and advances, vol. 74, no. Pt 3, pp. 184–203, May 2018, doi: 10.1107/S2053273318003066.
+ * [5] S. Curtarolo et al., “AFLOW: An automatic framework for high-throughput materials discovery,” Computational Materials Science, vol. 58, pp. 218–226, 2012, doi: https://doi.org/10.1016/j.commatsci.2012.02.005.
 
 
 
