@@ -11,7 +11,7 @@
   - [ ] Continumm 
   - [X] Other
         - if other specify: 
-    *SYM (symmetry)
+    * SYM (symmetry)
 a robust model to identify symmetry properties for all entries, includes point-, factor-, space groups, site symmetries and Wyckoff positions. It determines a system-specific mapping tolerance that yields symmetry operations entirely commensurate with fundamental crystallographic principles[1].
    *CHULL
 An autonomous thermodynamic stability analysis model has the function of identifying stable or coexist phases, equivalent structures, robust stability and decomposition reactions [2]. 
